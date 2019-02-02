@@ -1,5 +1,6 @@
 # Domoticz automate restart script
 # Made by: mAiden / Ricardo
+# Last edit on: 02-02-2019
 
 #!/bin/bash
 dt=$(date '+%d/%m/%Y %H:%M:%S')
