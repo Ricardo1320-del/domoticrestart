@@ -1,0 +1,2 @@
+# domoticrestart
+Restart domoticz automate. :)
